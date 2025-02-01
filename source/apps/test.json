@@ -1,1 +1,16 @@
 
+{
+	"long_description": "TESTING",
+	"github": "Lordalpha001/testingcia",
+	"image": "https://github.com/Lordalpha001/bectorcias/blob/main/cet.png?raw=true",
+	"icon": "https://github.com/Lordalpha001/bectorcias/blob/main/cet.png?raw=true",
+	"categories": [
+		"game"
+	],
+	"systems": [
+		"3DS"
+	],
+	"unique_ids": [
+		275368
+	]
+}
